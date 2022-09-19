@@ -1,0 +1,272 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", serif;
+  color: #ffe6a7;
+  font-size: 15px;
+}
+
+.name {
+  font-family: "Playball", serif;
+  color: #ffe6a7;
+  font-size: 100px;
+  margin: 0;
+  position: absolute;
+  top: 200px;
+  left: 450px;
+}
+
+.below {
+  position: absolute;
+  top: 350px;
+  left: 350px;
+}
+
+h2 {
+  font-size: 40px;
+  margin: 0;
+}
+
+.top {
+  background-color: #432818;
+  padding: 395px;
+}
+
+.computer {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 12%;
+}
+
+.Bulb {
+  position: absolute;
+  top: 30%;
+  right: 20px;
+  width: 125px;
+}
+
+.uni {
+  position: absolute;
+  bottom: -70px;
+  left: 470px;
+  width: 450;
+}
+
+.middle {
+  background-color: #99582a;
+  padding: 295px;
+}
+
+.headshot {
+  position: absolute;
+  top: 820px;
+  left: 600px;
+  border-radius: 50%;
+  width: 175px;
+  height: 175px;
+}
+
+.hello {
+  position: absolute;
+  top: 1000px;
+  left: 630px;
+}
+
+.experience {
+  position: relative;
+  top: -40px;
+  text-align: center;
+}
+.firstrule {
+  position: relative;
+  top: -40px;
+}
+
+.skills {
+  position: relative;
+  top: -30px;
+  left: 145px;
+}
+
+.langlabel {
+  position: relative;
+  top: -15px;
+  left: 175px;
+  font-size: x-large;
+}
+
+.skillpic {
+  float: left;
+  position: relative;
+  top: 140px;
+  left: 240px;
+  width: 180px;
+}
+
+.list {
+  float: right;
+  position: relative;
+  top: 20px;
+  left: -320px;
+}
+
+.secondrule {
+  position: relative;
+  top: 250px;
+  left: -75px;
+}
+
+.bottom {
+  background-color: #bb9457;
+  padding: 265px;
+}
+
+.leadhead {
+  text-align: center;
+  font-size: x-large;
+  position: relative;
+  top: -150px;
+}
+
+.left {
+  position: relative;
+  top: -125px;
+  right: -200px;
+}
+
+.leadimg {
+  float: right;
+  position: relative;
+  top: -225px;
+  left: -250px;
+  width: 180px;
+}
+
+.emojiskills {
+  position: relative;
+  float: right;
+  top: 0px;
+  left: -100px;
+}
+
+.hand {
+  float: left;
+  position: relative;
+  left: 200px;
+  width: 180px;
+}
+
+.thirdrule {
+  position: relative;
+  top: -30px;
+  left: 100px;
+}
+
+.fourthrule {
+  position: relative;
+  top: 250px;
+  left: 45px;
+}
+
+a {
+  color: #6f1d1b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #dc5713;
+}
+
+.contactbtn {
+  background-color: #bb9457;
+  padding: 10px 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 0%;
+  position: relative;
+  top: 250px;
+  left: 175px;
+}
+
+.copy {
+  position: relative;
+  top: 250px;
+  left: 190px;
+}
+
+hr {
+  border-color: #ffe6a7;
+  border-style: dotted;
+}
+
+.contact {
+  font-family: "Playball", serif;
+  color: #ffe6a7;
+  font-size: 50px;
+  text-align: center;
+}
+
+.contactpg {
+  background-color: #432818;
+}
+
+.address {
+  text-align: center;
+}
+
+.phonenum {
+  text-align: center;
+}
+
+.namelabel {
+  width: 30%;
+  float: left;
+  text-align: right;
+  position: relative;
+  right: -200px;
+}
+.nametext {
+  width: 65%;
+  margin-left: 10px;
+  float: left;
+  position: relative;
+  right: -200px;
+}
+
+.emaillabel {
+  width: 30%;
+  float: left;
+  text-align: right;
+  position: relative;
+  right: -200px;
+}
+
+.emailtext {
+  width: 65%;
+  margin-left: 10px;
+  float: left;
+  position: relative;
+  right: -200px;
+}
+
+.messlabel {
+  width: 30%;
+  float: left;
+  text-align: right;
+  position: relative;
+  right: -200px;
+}
+
+.messtext {
+  width: 65%;
+  margin-left: 10px;
+  float: left;
+  position: relative;
+  right: -200px;
+}
+
+.submit {
+  position: relative;
+  top: 100px;
+  left: -735px;
+}
